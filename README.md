@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Algoriza**
 
-- 💬 Ask me about **React , HTMl ,CSS ,Javascript , Sass ,Design**
+- 💬 Ask me about **RHTMl ,CSS ,Javascript , Sass ,Design,Next JS, React,React Redux&Toolkit, Tailwind, PHP, My SQL **
 
 - 📫 How to reach me **saramahmoud55512@gmail.com**
 
