@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sara Mahmoud</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">I'm a passionate, detail-oriented and versatile Front-End developerwho creates codes out of pretty designs. Fluent in HTML/CSS/JSand aiming to learn all the frameworks in between. Always learningnew skills and technologies to add to what I already know</h3>
 
-- 🔭 I’m currently working on **Algoriza**
 
-- 💬 Ask me about **RHTMl ,CSS ,Javascript , Sass ,Design,Next JS, React,React Redux&Toolkit, Tailwind, PHP, My SQL **
+- 💬 Ask me about **HTMl ,CSS ,Javascript , Sass ,Design,Next JS, React,React Redux&Toolkit, Tailwind, PHP, My SQL **
 
 - 📫 How to reach me **saramahmoud55512@gmail.com**
 
