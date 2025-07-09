@@ -1,6 +1,6 @@
 # Hi 👋 I am Sara Mahmoud
 ## Frontend Developer
-Passionate front-end developer with a knack for crafting user-centric interfaces.  I bring websites and applications to life with HTML, CSS, and JavaScript frameworks like React.  Adept at UI/UX principles and ensuring responsive design across all devices.  Always eager to collaborate and tackle new challenges!
+Front-end developer with a passion for building intuitive, accessible, and visually engaging user interfaces. I turn ideas into fast, responsive, and dynamic web experiences using HTML, CSS, JavaScript, and modern frameworks like React and Vue. Grounded in UI/UX best practices, I care deeply about how things look and how they work. Always excited to learn, collaborate, and craft digital products that make an impact..  Always eager to collaborate and tackle new challenges!
 
 * 🌍  I'm based in Cairo - Egypt
 * 🖥️  See my portfolio at [My GitHub account](https://github.com//saramahmoud55)
